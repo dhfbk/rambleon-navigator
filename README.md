@@ -41,5 +41,7 @@ The Linux version does not currently automatically update so you will need to
 repeat these steps to upgrade to future releases.
 
 If you have problem with try this:   
-`sudo dnf --assumeyes install libX11-devel`   
-`sudo dnf --assumeyes install libXScrnSaver`
+```
+sudo dnf --assumeyes install libX11-devel
+sudo dnf --assumeyes install libXScrnSaver
+```
