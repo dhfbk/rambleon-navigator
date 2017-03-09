@@ -45,3 +45,5 @@ If you have problem with fedora try this:
 sudo dnf --assumeyes install libXScrnSaver
 sudo dnf --assumeyes install libX11-devel
 ```
+
+last version: 1.0.5
