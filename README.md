@@ -46,4 +46,4 @@ sudo dnf --assumeyes install libXScrnSaver
 sudo dnf --assumeyes install libX11-devel
 ```
 
-last version: 1.0.6
+last version: 1.0.61
